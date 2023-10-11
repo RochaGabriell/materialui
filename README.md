@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-<img src="https://github.com/RochaGabriell/materialui/blob/main/.github/home.png?raw=true" alt="Page"><br/>
+<img src="https://github.com/RochaGabriell/materialui/blob/main/.github/home.png?raw=true" alt="Home"><br/>
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
