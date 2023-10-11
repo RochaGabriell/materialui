@@ -16,7 +16,7 @@ const Login = () => {
   return (
     <Box
       sx={{
-        bgcolor: '#1373d4',
+        bgcolor: '#f5f4f1',
         minHeight: '100%',
         display: 'flex',
         alignItems: 'center',
@@ -28,7 +28,8 @@ const Login = () => {
           sx={{
             p: 5,
             width: 1,
-            maxWidth: 420
+            maxWidth: 420,
+            borderRadius: '20px'
           }}
         >
           <Typography variant="h4"> Entre com sua conta</Typography>

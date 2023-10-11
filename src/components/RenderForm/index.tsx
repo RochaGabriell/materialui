@@ -53,7 +53,9 @@ const RenderForm = () => {
         size="large"
         type="submit"
         variant="contained"
-        color="inherit"
+        sx={{
+          borderRadius: '10px',
+        }}
       >
         Login
       </LoadingButton>
